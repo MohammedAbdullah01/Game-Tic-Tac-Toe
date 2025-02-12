@@ -1,0 +1,10 @@
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\bin\Debug\GameXOROWindowsForms.exe.config
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\bin\Debug\GameXOROWindowsForms.exe
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\bin\Debug\GameXOROWindowsForms.pdb
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\obj\Debug\GameXOROWindowsForms.csproj.AssemblyReference.cache
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\obj\Debug\GameXOROWindowsForms.Form1.resources
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\obj\Debug\GameXOROWindowsForms.Properties.Resources.resources
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\obj\Debug\GameXOROWindowsForms.csproj.GenerateResource.cache
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\obj\Debug\GameXOROWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\obj\Debug\GameXOROWindowsForms.exe
+C:\Users\mm890\source\repos\GameXOROWindowsForms\GameXOROWindowsForms\obj\Debug\GameXOROWindowsForms.pdb
